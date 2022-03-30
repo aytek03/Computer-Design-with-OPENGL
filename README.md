@@ -1,4 +1,4 @@
-# Computer-Design-with-OPENGL
+# Computer-Graphics-with-OPENGL
 
 3D TEXTURE
 
